@@ -18,11 +18,12 @@
 
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminar&show_icons=true&locale=en&layout=compact" alt="dewminar" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewminar&show_icons=true&locale=en" alt="dewminar" />
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminar&show_icons=true&locale=en&layout=compact" alt="dewminar" />
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dewminar&show_icons=true&locale=en" alt="dewminar" />
+  </div>
 </div>
 
 <div style="text-align: center;">
