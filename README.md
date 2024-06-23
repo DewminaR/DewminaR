@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*uzVtquVT0jGfbNAf7Qc1UQ.gif)
+![MasterHead](https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg)
 
 <h1 align="center">Hi 👋, I'm Dewmina Rathnayaka</h1>
 <h3 align="center">A Full stack developer from Sri Lanka</h3>
