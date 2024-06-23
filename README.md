@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c2/d6/eb/c2d6eb31dba84eaa7ae2ec231af47040.gif" alt="Masthead Image" width="100%" />
+  <img src="https://i.pinimg.com/originals/c2/d6/eb/c2d6eb31dba84eaa7ae2ec231af47040.gif" alt="Masthead Image" width="100%" height="50%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dewmina Rathnayaka</h1>
