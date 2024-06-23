@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Dewmina Rathnayaka</h1>
 <h3 align="center">A Full stack developer from Sri Lanka</h3>
 
+<img aling="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952xo536s70263r0gxdghzvcsnhgoh3mm9u9ztu64z9&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
 - 🌱 I’m currently learning **Go Lang and Next js**
 
 - 💬 Ask me about **React, MERN, Java**
