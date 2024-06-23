@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dewmina Rathnayaka</h1>
 <h3 align="center">A Full stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewminar" alt="dewminar" /></a> </p>
-
 - 🌱 I’m currently learning **Go Lang and Next js**
 
 - 💬 Ask me about **React, MERN, Java**
@@ -21,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminar&show_icons=true&locale=en&layout=compact" alt="dewminar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewminar&show_icons=true&locale=en" alt="dewminar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewminar&" alt="dewminar" /></p>
