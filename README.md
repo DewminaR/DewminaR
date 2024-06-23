@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewminar&show_icons=true&locale=en" alt="dewminar" /></p>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewminar&" alt="dewminar" />
+<div style="text-align: center;">
+  <img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=dewminar&" alt="dewminar" />
 </div>
