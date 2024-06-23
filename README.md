@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c2/d6/eb/c2d6eb31dba84eaa7ae2ec231af47040.gif" alt="Masthead Image" width="100%" height="50%"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpsychotherapybath.co.uk%2Fhttp%2Far.europeanwriterstour.com%2Fimages-2023%2Ftechnologygif&psig=AOvVaw10ejGWrhc6oLVjLMZdEVMT&ust=1719241856895000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCKiEoJWB8oYDFQAAAAAdAAAAABCEAQ" alt="Masthead Image" width="100%" height="50%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dewmina Rathnayaka</h1>
