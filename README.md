@@ -1,19 +1,15 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dewmina%20Rathnayaka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20%7C%20Sri%20Lanka&descAlignY=58&descSize=18" alt="Dewmina Rathnayaka banner"/>
+<img width="100%" src="./banner.png" alt="Dewmina Rathnayaka banner"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+21C+Care;Go+%7C+React+%7C+Java+%7C+Spring+Boot+%7C+Python;IEEE+Published+Researcher+%F0%9F%93%84;Currently+learning+Next.js+%26+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+21C+Care;Go+%7C+React+%7C+Java+%7C+Spring+Boot+%7C+Python;IEEE+Published+Researcher+%F0%9F%93%84;Currently+learning+Next.js+%26+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dewmina-rathnayaka)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewmina6@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__dewmina_r.__)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dewminar&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -147,8 +143,6 @@ Hi 👋, I'm **Dewmina**, a Software Engineer based in Malabe, Sri Lanka. I hold
 
 <img src="https://streak-stats.demolab.com/?user=dewminar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dewminar&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
-
 </div>
 
 ---
@@ -163,4 +157,3 @@ I'm open to **backend and full-stack opportunities**, collaborations and interes
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer"/>
