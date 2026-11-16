@@ -138,8 +138,8 @@ Hi 👋, I'm **Dewmina**, a Software Engineer based in Malabe, Sri Lanka. I hold
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dewminar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewminar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180" src="https://raw.githubusercontent.com/dewminar/dewminar/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="https://raw.githubusercontent.com/dewminar/dewminar/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com/?user=dewminar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
